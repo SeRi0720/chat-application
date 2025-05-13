@@ -1,0 +1,29 @@
+{
+  "name": "chat-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeRi0720/chat-application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SeRi0720/chat-application/issues"
+  },
+  "homepage": "https://github.com/SeRi0720/chat-application#readme",
+  "dependencies": {
+    "emoji-mart": "^5.6.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-easy-emoji": "^1.8.1",
+    "react-input-emoji": "^5.9.0",
+    "string-replace-to-array": "^2.1.1"
+  }
+}
